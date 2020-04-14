@@ -1,0 +1,12 @@
+/home/project/kokuru/2020/local/bin/cpanel_json_xs
+/home/project/kokuru/2020/local/lib/perl5/x86_64-linux-thread-multi/Cpanel/JSON/XS.pm
+/home/project/kokuru/2020/local/lib/perl5/x86_64-linux-thread-multi/Cpanel/JSON/XS/Boolean.pm
+/home/project/kokuru/2020/local/lib/perl5/x86_64-linux-thread-multi/Cpanel/JSON/XS/Type.pm
+/home/project/kokuru/2020/local/lib/perl5/x86_64-linux-thread-multi/auto/Cpanel/JSON/XS/XS.so
+/usr/local/bin/cpanel_json_xs
+/usr/local/lib64/perl5/Cpanel/JSON/XS.pm
+/usr/local/lib64/perl5/Cpanel/JSON/XS/Boolean.pm
+/usr/local/lib64/perl5/auto/Cpanel/JSON/XS/XS.so
+/usr/local/share/man/man1/cpanel_json_xs.1
+/usr/local/share/man/man3/Cpanel::JSON::XS.3pm
+/usr/local/share/man/man3/Cpanel::JSON::XS::Boolean.3pm

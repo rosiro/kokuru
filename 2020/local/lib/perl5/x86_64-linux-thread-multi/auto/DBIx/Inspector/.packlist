@@ -1,0 +1,13 @@
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Column.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Column/Pg.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Driver/Base.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Driver/Pg.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Driver/SQLite.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Driver/mysql.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/ForeignKey.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/ForeignKey/Pg.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Iterator.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Iterator/Null.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Table.pm
+/home/project/kokuru/2020/local/lib/perl5/DBIx/Inspector/Table/Pg.pm

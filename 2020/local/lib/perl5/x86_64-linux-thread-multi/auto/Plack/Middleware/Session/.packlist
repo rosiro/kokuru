@@ -1,0 +1,11 @@
+/home/project/kokuru/2020/local/lib/perl5/Plack/Middleware/Session.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Middleware/Session/Cookie.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session/Cleanup.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session/State.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session/State/Cookie.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session/Store.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session/Store/Cache.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session/Store/DBI.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session/Store/File.pm
+/home/project/kokuru/2020/local/lib/perl5/Plack/Session/Store/Null.pm
